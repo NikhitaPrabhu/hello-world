@@ -1,6 +1,6 @@
 # hello-world
-practice repository
+Practice repository
 
-Hello reader,
+Hello Reader,
 
-Have a great time going through the reposotory. Goodluck with finding somthing interesting!
+Have a great time going through the reposo=itory. Goodluck with finding somthing interesting!
